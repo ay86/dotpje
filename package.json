@@ -1,0 +1,25 @@
+{
+  "name": "dotpje",
+  "version": "0.1.0",
+  "description": "the JSON env file of project",
+  "keywords": [
+    "node",
+    "json",
+    "env"
+  ],
+  "homepage": "https://github.com/ay86/dotpje#readme",
+  "bugs": {
+    "url": "https://github.com/ay86/dotpje/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ay86/dotpje.git"
+  },
+  "license": "MIT",
+  "author": "AngusYoung",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=development node ./test"
+  }
+}
