@@ -7,6 +7,10 @@
     "json",
     "env"
   ],
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
   "homepage": "https://github.com/ay86/dotpje#readme",
   "bugs": {
     "url": "https://github.com/ay86/dotpje/issues"
